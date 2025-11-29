@@ -26,7 +26,9 @@
 
 ![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=aarvo09&theme=dark&card_width=500)
 
-![Arvind's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aarvo09&show_icons=true&theme=dark)
+![Arvind's GitHub stats](https://github-readme-stats-github-kn9s.vercel.app/api?username=aarvo09&show_icons=true&theme=tokyonight)
+
+
 
 
 
