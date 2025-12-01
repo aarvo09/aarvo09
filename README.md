@@ -11,7 +11,7 @@
 
 
 ## SOCIAL HANDLES:
-[![Instagra](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]((https://www.instagram.com/arvindsingh._09/))
+[![Instagra](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]((https://www.instagram.com/arvindsingh._09))
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arvind-singh-9a05b9347/)
 [![Resume](https://img.shields.io/badge/standardresume-%2A3FFB.svg?logo=StandardResume&logoColor=yellow)](https://docs.google.com/document/d/1--4gVyYch28pgrOIKafSHPru4nPUdmNL/edit?usp=drive_link&ouid=110139105887848851358&rtpof=true&sd=true)
 
